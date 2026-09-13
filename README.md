@@ -93,7 +93,7 @@ amazon-sales-dashboard/
 
 ## 📊 DAX Measures
 
-**50+ measures included covering:**
+**10+ measures included covering:**
 - Basic KPIs (Total Sales, Orders, Profit, Margins)
 - Order Status Analysis (Completion, Return, Cancellation rates)
 - Sales by Dimension (Region, Category, Salesperson, Payment Method)
