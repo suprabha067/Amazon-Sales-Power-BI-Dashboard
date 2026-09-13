@@ -6,7 +6,7 @@ A professional, production-ready Power BI dashboard analyzing Amazon sales data 
 
 **Dataset:** 5,000 sales transactions | **Period:** Jan 2019 - Dec 2024 | **Total Sales:** $5.9M | **Profit Margin:** 34.8%
 
-This dashboard provides comprehensive sales analytics with executive and operational views. Features 2 interactive sheets, 10+ visualizations, 50+ DAX measures, and real-time filtering.
+This dashboard provides comprehensive sales analytics with executive and operational views. Features 2 interactive sheets, 10+ visualizations, 10+ DAX measures, and real-time filtering.
 
 ---
 
